@@ -49,32 +49,36 @@ The Household, Income and Labour Dynamics in Australia (HILDA) https://melbourne
 
 ### Reading List: 
 
-These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
 
-#### Stata
+General
+Davies, R. and Dale, A., 1994. Analyzing social and political change: a casebook of methods. Analyzing Social and Political Change, pp.1-240.
+An excellent book (although a little old).
 
-Gayle, V. and Lambert, P., 2018. What is Quantitative Longitudinal Data Analysis?. Bloomsbury Publishing.
-https://www.amazon.co.uk/Quantitative-Longitudinal-Analysis-Research-Methods/dp/1472515404/ref=sr_1_1?s=books&ie=UTF8&qid=1530726864&sr=1-1&keywords=vernon+gayle<br>
-_My recent book on longitudinal data analysis (using Stata)._
+Gayle, V. and Lambert, P. (2021). Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ 
+My recent book on longitudinal data analysis (using Stata).
 
-Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
-https://www.amazon.co.uk/Data-Analysis-Using-Stata-Third/dp/1597181102/ref=sr_1_1?s=books&ie=UTF8&qid=1530725888&sr=1-1&keywords=kohler+and+kreuter<br>
-_This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught._
+Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press. 
+This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught.
 
-Mehmetoglu, M. and Jakobsen, T.G., 2016. Applied statistics using Stata: a guide for the social sciences. Sage.
-https://www.amazon.co.uk/Applied-Statistics-Using-Stata-Sciences/dp/1473913233/ref=sr_1_2?s=books&ie=UTF8&qid=1530725649&sr=1-2&keywords=Stata<br>
-_This is a first class text book. It is clearly written and very comprehensive_
+Mehmetoglu, M. and Jakobsen, T.G., 2022. Applied statistics using Stata: a guide for the social sciences. Sage.
+This is a fabulous text. The first edition 2016 is excellent, it has now been updated.
+Skrondal, A. and Rabe-Hesketh, S., 2004. Generalized latent variable modeling: Multilevel, longitudinal, and structural equation models. Chapman and Hall/CRC.
+A very advanced, dense text which summarizes a wide array of statistical models which may be used for longitudinal analyses, highlighting the technical connections between them.
 
+Willett, J.B. and Singer, J.D., 2003. Applied longitudinal data analysis: Modeling change and event occurrence. New York, NY, USA: Oxford University Press.
+Wide coverage illustrating a selection of relatively advanced analytical
+strategies, although with less applied guidance than the title might suggest.
+Workflow
 
-#### Workflow
+Gayle, V., & Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 0(0). https://doi.org/10.1177/20597991221111681 
+Our recent paper on transparent and reproducible statistically orientated research.
 
-Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
-http://eprints.ncrm.ac.uk/4000/<br>
-_A practical guide to the data analysis workflow._
+Gayle, V.J. and Lambert, P.S., 2017. The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM. http://eprints.ncrm.ac.uk/4000/
+A practical guide to the data analysis workflow.
 
-Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.
-https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow<br>
-_A fantastic book. This is the 'bible' of good data analysis workflow practices._
+Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.  
+A fantastic book. This is the 'bible' of good data analysis workflow practices.
+
 
 
 ### Useful Stata Related Websites
