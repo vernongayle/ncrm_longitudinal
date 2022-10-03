@@ -1,8 +1,8 @@
 # Longitudinal Data and Research
 
-## This is an NCRM repository for Longitudinal Data and Researchs
+## This is an NCRM repository for Longitudinal Data and Research
 
-### Workshop (April 2020)
+### Workshop (October 2022)
 
 ### A two day workshop led by Professor Vernon Gayle, University of Edinburgh.
 
