@@ -30,11 +30,11 @@ The workflow in longitudinal data analysis <br>
 
 The course will be supported by <br>
 
-Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.
-https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ 
+Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing. <br>
 
 ![picture](https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_148,c_scale/jackets/9781350188853.jpg)
 
+https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ 
 
 
 ### Links to Longitudinal Studies:
