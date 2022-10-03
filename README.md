@@ -52,23 +52,23 @@ The Household, Income and Labour Dynamics in Australia (HILDA) https://melbourne
 
 General
 Davies, R. and Dale, A., 1994. Analyzing social and political change: a casebook of methods. Analyzing Social and Political Change, pp.1-240. <br>
-An excellent book (although a little old).<br>
+*An excellent book (although a little old)*.<br>
 
 Gayle, V. and Lambert, P. (2021). Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.<br> 
 https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ <br>
-My recent book on longitudinal data analysis (using Stata).<br>
+*My recent book on longitudinal data analysis (using Stata)*.<br>
 
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press. <br>
-This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught.<br>
+*This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught.*<br>
 
 Mehmetoglu, M. and Jakobsen, T.G., 2022. Applied statistics using Stata: a guide for the social sciences. Sage.<br>
-This is a fabulous text. The first edition 2016 is excellent, it has now been updated.<br>
+*This is a fabulous text. The first edition 2016 is excellent, it has now been updated.*<br>
 
 Skrondal, A. and Rabe-Hesketh, S., 2004. Generalized latent variable modeling: Multilevel, longitudinal, and structural equation models. Chapman and Hall/CRC. <br>
-A very advanced, dense text which summarizes a wide array of statistical models which may be used for longitudinal analyses, highlighting the technical connections between them.<br>
+*A very advanced, dense text which summarizes a wide array of statistical models which may be used for longitudinal analyses, highlighting the technical connections between them.*<br>
 
 Willett, J.B. and Singer, J.D., 2003. Applied longitudinal data analysis: Modeling change and event occurrence. New York, NY, USA: Oxford University Press. <br>
-Wide coverage illustrating a selection of relatively advanced analytical strategies, although with less applied guidance than the title might suggest.<br>
+*Wide coverage illustrating a selection of relatively advanced analytical strategies, although with less applied guidance than the title might suggest.*<br>
 
 ## Workflow ##
 
@@ -76,10 +76,10 @@ Gayle, V., & Connelly, R., 2022. The Stark realities of reproducible statistical
 Our recent paper on transparent and reproducible statistically orientated research.
 
 Gayle, V.J. and Lambert, P.S., 2017. The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM. http://eprints.ncrm.ac.uk/4000/<br>
-A practical guide to the data analysis workflow.
+*A practical guide to the data analysis workflow.*<br>
 
 Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.  <br>
-A fantastic book. This is the 'bible' of good data analysis workflow practices. <br>
+*A fantastic book. This is the 'bible' of good data analysis workflow practices.* <br>
 
 
 
