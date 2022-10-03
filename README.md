@@ -36,6 +36,7 @@ Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Blooms
 
 https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ 
 
+---------------
 
 ### Links to Longitudinal Studies:
 
@@ -69,6 +70,8 @@ Skrondal, A. and Rabe-Hesketh, S., 2004. Generalized latent variable modeling: M
 Willett, J.B. and Singer, J.D., 2003. Applied longitudinal data analysis: Modeling change and event occurrence. New York, NY, USA: Oxford University Press. <br>
 *Wide coverage illustrating a selection of relatively advanced analytical strategies, although with less applied guidance than the title might suggest.*<br>
 
+---------------
+
 ### Workflow ##
 
 Gayle, V., & Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 0(0). https://doi.org/10.1177/20597991221111681 <br>
@@ -80,7 +83,7 @@ Gayle, V.J. and Lambert, P.S., 2017. The Workflow: A Practical Guide to Producin
 Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.  <br>
 *A fantastic book. This is the 'bible' of good data analysis workflow practices.* <br>
 
-
+---------------
 
 ### Useful Stata Related Websites
 
