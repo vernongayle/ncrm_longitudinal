@@ -49,9 +49,6 @@ The Household, Income and Labour Dynamics in Australia (HILDA) https://melbourne
 
 ### Reading List: 
 
-
-#### General 
-
 Davies, R. and Dale, A., 1994. Analyzing social and political change: a casebook of methods. Analyzing Social and Political Change, pp.1-240. <br>
 *An excellent book (although a little old)*.<br>
 
@@ -71,7 +68,7 @@ Skrondal, A. and Rabe-Hesketh, S., 2004. Generalized latent variable modeling: M
 Willett, J.B. and Singer, J.D., 2003. Applied longitudinal data analysis: Modeling change and event occurrence. New York, NY, USA: Oxford University Press. <br>
 *Wide coverage illustrating a selection of relatively advanced analytical strategies, although with less applied guidance than the title might suggest.*<br>
 
-## Workflow ##
+### Workflow ##
 
 Gayle, V., & Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 0(0). https://doi.org/10.1177/20597991221111681 <br>
 Our recent paper on transparent and reproducible statistically orientated research.
