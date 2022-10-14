@@ -46,6 +46,7 @@ CLOSER https://www.closer.ac.uk/ <br>
 US Panel Study of Income Dynamics https://psidonline.isr.umich.edu/ <br>
 The Cross National Equivalence Files https://cnef.ehe.osu.edu/ <br>
 The Household, Income and Labour Dynamics in Australia (HILDA) https://melbourneinstitute.unimelb.edu.au/hilda <br>
+Longitudinal data analysis in child and adolescent mental health https://www.frontiersin.org/articles/10.3389/fpsyt.2022.1038190/full <br>
 
 ---------------
 
