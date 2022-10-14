@@ -24,7 +24,9 @@ Duration models <br>
 Panel data models <br>
 The workflow in longitudinal data analysis <br>
 
+### Video Playlist:
 
+http://bit.do/ncrm_longitudinal
 
 ### Core Text:
 
