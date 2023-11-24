@@ -12,7 +12,7 @@ Across the social sciences there is widespread agreement that longitudinal data 
 
 This is a one-day workshop on longitudinal data and research using statistical methods.  <br>
 
-The workshop is specifically designed for social scientists, and social science data and examples will be showcased throughout the workshop. The workshop will focus on the research value of longitudinal data and explore sources of longitudinal data. Participants will be introduced to the analysis of repeated analysing repeated cross-sectional data, duration model and models for panel data. The emphasis will be on interpreting outputs (e.g. from data analysis software packages). <br>
+The workshop is specifically designed for social scientists, and social science data and examples will be showcased throughout the workshop. The workshop will focus on the research value of longitudinal data and explore sources of longitudinal data. Participants will be introduced to the analysis of repeated analysing repeated cross-sectional data and models for panel data. The emphasis will be on interpreting outputs (e.g. from data analysis software packages). <br>
 
 
 ### Topics: 
@@ -20,13 +20,12 @@ The workshop is specifically designed for social scientists, and social science 
 The research value of longitudinal data <br>
 Sources of longitudinal data <br>
 Analysing repeated cross-sectional data <br>
-Duration models <br>
 Panel data models <br>
 The workflow in longitudinal data analysis <br>
 
 ### Video Playlist:
 
-http://bit.do/ncrm_longitudinal
+To be added http://
 
 ### Core Text:
 
