@@ -10,7 +10,7 @@
 
 Across the social sciences there is widespread agreement that longitudinal data (e.g. data sets that repeatedly contact individuals) provides powerful research resources to examine both social change and social stability. There is now a broad portfolio of longitudinal data available to social science researchers. Many social science research questions can be adequately answered without longitudinal data; however, most research projects will beneﬁt from the addition of longitudinal data analysis, and some research questions can only feasibly be answered using longitudinal data. <br>
 
-This is a two day workshop on longitudinal data and research using statistical methods.  <br>
+This is a one-day workshop on longitudinal data and research using statistical methods.  <br>
 
 The workshop is specifically designed for social scientists, and social science data and examples will be showcased throughout the workshop. The workshop will focus on the research value of longitudinal data and explore sources of longitudinal data. Participants will be introduced to the analysis of repeated analysing repeated cross-sectional data, duration model and models for panel data. The emphasis will be on interpreting outputs (e.g. from data analysis software packages). <br>
 
