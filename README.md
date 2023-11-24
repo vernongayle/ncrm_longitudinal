@@ -56,7 +56,7 @@ Children of the 2020s Study https://cls.ucl.ac.uk/cls-studies/children-of-the-20
 Davies, R. and Dale, A., 1994. Analyzing social and political change: a casebook of methods. Analyzing Social and Political Change, pp.1-240. <br>
 *An excellent book (although a little old)*.<br>
 
-Gayle, V. and Lambert, P. (2021). Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.<br> 
+Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.<br> 
 https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/ <br>
 *My recent book on longitudinal data analysis (using Stata)*.<br>
 
