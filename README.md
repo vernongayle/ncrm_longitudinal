@@ -76,8 +76,9 @@ Willett, J.B. and Singer, J.D., 2003. Applied longitudinal data analysis: Modeli
 
 ### Workflow ##
 
-Gayle, V., & Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 0(0). https://doi.org/10.1177/20597991221111681 <br>
-Our recent paper on transparent and reproducible statistically orientated research.
+Gayle, V. and Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 15(3), pp.207-221. <br>
+https://journals.sagepub.com/doi/pdf/10.1177/20597991221111681 <br>
+Our recent paper on transparent and reproducible statistically orientated research. <br>
 
 Gayle, V.J. and Lambert, P.S., 2017. The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM. http://eprints.ncrm.ac.uk/4000/<br>
 *A practical guide to the data analysis workflow.*<br>
