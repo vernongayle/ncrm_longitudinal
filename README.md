@@ -1,4 +1,4 @@
-# Longitudinal Data and Research - Deep Dive
+# Longitudinal Data and Research - A Deep Dive
 
 ## This is an NCRM repository for Longitudinal Data and Research
 
