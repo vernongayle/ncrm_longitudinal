@@ -23,9 +23,6 @@ Analysing repeated cross-sectional data <br>
 Panel data models <br>
 The workflow in longitudinal data analysis <br>
 
-### Video Playlist:
-
-To be added http://
 
 ### Core Text:
 
