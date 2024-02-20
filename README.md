@@ -2,7 +2,7 @@
 
 ## This is an NCRM repository for Longitudinal Data and Research
 
-### Workshop (December 2023)
+### Workshop (February 2024)
 
 ### A one day workshop led by Professor Vernon Gayle, University of Edinburgh.
 
