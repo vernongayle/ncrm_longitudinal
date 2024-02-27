@@ -110,7 +110,8 @@ https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squ
 <br>
 
 Missing Data Methods <br>
-http://www.missingdata.org.uk/ <br>
+https://www.lshtm.ac.uk/research/centres-projects-groups/missing-data <br>
+The old site was http://www.missingdata.org.uk/ <br>
 
 A useful paper on presenting modelling results <br>
 Connelly et. al (2016) <br>
